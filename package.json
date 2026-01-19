@@ -1,5 +1,5 @@
 {
-  "name": "smart-greeter",
+  "name": "forever-package",
   "version": "1.0.0",
   "description": "A Node.js package that generates greetings based on time of day",
   "main": "forever-package.js",
